@@ -1,0 +1,127 @@
+body {
+  background-image: url("https://www.state.gov/wp-content/uploads/2021/06/AI-Motherboard-2048x1103.jpg");
+  background-size: cover;
+}
+
+div {
+  text-align: center;
+}
+body {
+  background-color: rgb(218, 12, 215);
+}
+#ask-button {
+  padding: 1rem 1rem;
+  font-size: 0.2rem;
+  background-color: rgb(228, 3, 3);
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0px 0px 10px rgb(0, 0, 0);
+  transition: background-color 0.2s;
+  width: 10%;
+  height: 7%;
+}
+.container {
+  margin-top: 15%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+#ask-button:hover {
+  background-color: rgb(19, 104, 119);
+}
+
+#ask-button {
+  padding: 1rem 1rem;
+  font-size: 1rem;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0px 0px 10px rgb(212, 3, 3);
+  height: 57px;
+  transition: background-color 0.2s;
+  margin-left: 1.5rem;
+  margin-top: 1rem;
+}
+#Ai {
+  background-color: white font;
+}
+
+#input-text {
+  width: 487px;
+  height: 47px;
+}
+#input-text {
+  display: flex;
+  align-items: center;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 6px;
+}
+
+#input-text input[type="text"] {
+  flex-grow: 1;
+  border: none;
+  padding: 6px;
+  outline: none;
+}
+
+#input-text button[type="submit"] {
+  border: none;
+  background-color: #f2f2f2;
+  padding: 6px 12px;
+  border-radius: 0 20px 20px 0;
+  cursor: pointer;
+}
+#ask-button {
+  display: flex;
+  align-items: center;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 6px;
+}
+
+#ask-button input[type="text"] {
+  flex-grow: 1;
+  border: none;
+  padding: 6px;
+  outline: none;
+}
+
+#ask-button button[type="submit"] {
+  border: none;
+  background-color: #f2f2f2;
+  padding: 12px 24px;
+  border-radius: 0 20px 20px 0;
+  cursor: pointer;
+}
+#ask-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  /* additional styles */
+  width: 150px;
+  height: 40px;
+}
+#ask-button {
+  width: 250px;
+  height: 60px;
+}
+.google-style-title {
+  font-family: "Product Sans", Arial, sans-serif;
+  font-size: 48px;
+  color: #ffffff;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
